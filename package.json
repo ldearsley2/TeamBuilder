@@ -1,0 +1,22 @@
+{
+  "name": "teambuilder",
+  "version": "1.0.0",
+  "description": "A web-application that can be utilised for team building excercises",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldearsley2/TeamBuilder.git"
+  },
+  "author": "Lucas Dearsley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldearsley2/TeamBuilder/issues"
+  },
+  "homepage": "https://github.com/ldearsley2/TeamBuilder#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
