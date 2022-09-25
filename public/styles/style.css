@@ -71,3 +71,10 @@ main {
     font-size: 1.25rem;
 }
 
+#login-form,
+#reg-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
